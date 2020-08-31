@@ -1,0 +1,12 @@
+#Panel-container {
+	border:1px solid black;
+	margin-top: 20px;
+}
+
+#Panel-firstRow {
+	height:30%;
+	border:1px solid black;	
+	font-weight: bold;
+	background-color: grey;
+	width:100%;
+} 
